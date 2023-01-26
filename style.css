@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(27, 27, 92);
+}
+
+.container {
+    background-color: white;
+    border-radius: 20px;
+    width: 900px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+.antony img {
+    width: 400px;
+    padding: 20px;
+
+}
+
+.diviso img {
+
+    width: 20px;
+    
+}
+
+.diviso p {
+
+    display: flex;
+    text-align: start;
+}
+
+.clubes img {
+   
+    width: 80px;
+    text-align: center;
+} 
+
+
+
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
